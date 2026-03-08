@@ -10,7 +10,7 @@ The `BestModel` folder contains:
 
 ## Notebook Description
 
-The Jupyter notebook is based on the baseline setup provided byt the task organisers, [RoBERTa-base baseline model]([https://drive.google.com/file/d/14R4Mz-fd3e9kocsXY1XF72jCN6vQCCDE/view?usp=sharing](https://colab.research.google.com/drive/1M5Qx-FVJYNqFdvpJgggIZaWk5SpGS1Nu?usp=sharing)). 
+The Jupyter notebook is based on the baseline setup provided byt the task organisers, [RoBERTa-base baseline model](https://colab.research.google.com/drive/1M5Qx-FVJYNqFdvpJgggIZaWk5SpGS1Nu?usp=sharing). 
 From the **Preprocessing cell onward**, all code was written by the author as part 
 of the proposed approach described in the report.
 
