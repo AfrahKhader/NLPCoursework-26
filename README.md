@@ -4,9 +4,9 @@
 
 The `BestModel` folder contains:
 - The Jupyter notebook `BestModel` used to train the final model and generate predictions
-- `dev.txt` — model predictions on the official development set
-- `test.txt` — model predictions on the official test set
-- `model/` — folder containing the saved model configuration and tokenizer
+- `dev.txt`: model predictions on the official development set
+- `test.txt`: model predictions on the official test set
+- `model/`: folder containing the saved model configuration and tokenizer
 
 ## Notebook Description
 
@@ -23,7 +23,7 @@ Download them from Google Drive and place them inside the `BestModel/model/` fol
 
 ## Results
 
-| Split | File | F1 Score |
+| Dataset | File | F1 Score |
 |---|---|---|
 | Development set | `BestModel/dev.txt` | 0.5761 |
 | Test set | `BestModel/test.txt` | TBD (leaderboard) |
@@ -32,7 +32,7 @@ Download them from Google Drive and place them inside the `BestModel/model/` fol
 
 | Parameter | Value |
 |---|---|
-| Base Model | RoBERTa-large |
+| Model | RoBERTa-large |
 | Number of Labels | 2 |
 | Epochs | 5 |
 | Learning Rate | 1e-5 |
